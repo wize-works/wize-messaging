@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/wize-works/wize-messaging/compare/v1.0.1...v1.0.2) (2025-05-03)
+
+
+### Bug Fixes
+
+* update default database name from 'wize-example' to 'wize-messaging' ([6c58d84](https://github.com/wize-works/wize-messaging/commit/6c58d8424e4b240eeb383882da4de77f86db316e))
+
 ## [1.0.1](https://github.com/wize-works/wize-messaging/compare/v1.0.0...v1.0.1) (2025-05-03)
 
 
