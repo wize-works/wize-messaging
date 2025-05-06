@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/wize-works/wize-messaging/compare/v1.3.0...v1.3.1) (2025-05-06)
+
+
+### Bug Fixes
+
+* update @wizeworks/graphql-factory-mongo to version 1.33.0 ([e567911](https://github.com/wize-works/wize-messaging/commit/e567911cab39efc04d3d28326e454e4e1488a4cc))
+
 # [1.3.0](https://github.com/wize-works/wize-messaging/compare/v1.2.0...v1.3.0) (2025-05-06)
 
 
