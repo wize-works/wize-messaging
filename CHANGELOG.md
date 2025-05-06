@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/wize-works/wize-messaging/compare/v1.2.0...v1.3.0) (2025-05-06)
+
+
+### Bug Fixes
+
+* format deploy.yml for consistent indentation ([585f32a](https://github.com/wize-works/wize-messaging/commit/585f32aecdfd20122af90dbd39c144c68763386b))
+* update deploy.yml for non-interactive AKS auth ([feac65f](https://github.com/wize-works/wize-messaging/commit/feac65f4e6cfd5a910ee580f397a95a5e7fbd57c))
+
+
+### Features
+
+* update @wizeworks/graphql-factory-mongo to version 1.31.0 ([96b8639](https://github.com/wize-works/wize-messaging/commit/96b8639a72e1e1230cc72157491656b3c350a603))
+
 # [1.2.0](https://github.com/wize-works/wize-messaging/compare/v1.1.1...v1.2.0) (2025-05-04)
 
 
